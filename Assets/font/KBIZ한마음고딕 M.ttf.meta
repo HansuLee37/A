@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 803742f144dbeb748b420bd6bec7b17b
+timeCreated: 1488701324
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KBIZgo M
+  fontNames:
+  - KBIZgo M
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
